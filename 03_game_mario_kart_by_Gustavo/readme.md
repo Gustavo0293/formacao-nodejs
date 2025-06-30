@@ -72,6 +72,26 @@
                 <p>Poder: 5</p>
             </td>
         </tr>
+        <tr>
+            <td style="border: 1px solid black; text-align: center;">
+                <p>Toad</p>
+                <img src="./docs/toad.gif" alt="Mario Kart" width="60" height="60">
+            </td>
+            <td style="border: 1px solid black; text-align: center;">
+                <p>Velocidade: 4</p>
+                <p>Manobrabilidade: 4</p>
+                <p>Poder: 2</p>
+            </td>
+            <td style="border: 1px solid black; text-align: center;">
+                <p>Random Player</p>
+                <img src="./docs/lb.gif" alt="Mario Kart" width="60" height="60">
+            </td>
+            <td style="border: 1px solid black; text-align: center;">
+                <p>Velocidade: ?</p>
+                <p>Manobrabilidade: ?</p>
+                <p>Poder: ?</p>
+            </td>
+        </tr>
     </table>
 
 <p></p>
