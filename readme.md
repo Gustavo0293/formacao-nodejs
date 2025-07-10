@@ -1,134 +1,44 @@
-<!--START_SECTION:header-->
-<div align="center">
-  <p align="center">
-    <img 
-      alt="DIO Education" 
-      src="./.github/assets/logo.webp" 
-      width="100px" 
-    />
-    <h1>Formação: NodeJS Developer</h1>
-  </p>
-</div>
-<!--END_SECTION:header-->
+# Formação Node.js 🚀
 
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=DIO&message=Education&color=E94D5F&labelColor=202024" alt="DIO Project" />
-  <a href="LICENSE"><img  src="https://img.shields.io/static/v1?label=License&message=MIT&color=E94D5F&labelColor=202024" alt="License"></a>
-</p>
+Este repositório contém os projetos, exercícios e anotações desenvolvidos durante a formação em Node.js, com foco em back-end moderno utilizando JavaScript e TypeScript.
 
-<!--  -->
-<table align="center">
-<thead>
-  <tr>
-    <td>
-        <p align="center">Expert</p>
-        <a href="https://github.com/felipeAguiarCode">
-        <img src="https://avatars0.githubusercontent.com/u/37452836?v=3&s=115" alt="@felipeAguiarCode"><br>
-        <sub>@felipeAguiarCode</sub>
-      </a>
-    </td>
-    <td colspan="3">
-    <p>Desenvolvendo soluções fullstack a mais de 10 anos!</p>
-      <a 
-      href="https://www.linkedin.com/in/felipe-me/" 
-      align="center">
-           <img 
-            align="center" 
-            alt="Material de Apoio" 
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-            >
-        </a>
-    </td>
-  </tr>
-</thead>
-</table>
-<!--  -->
+## 📚 Conteúdo
 
-<div align="center">
-  <h2>💻 Módulos</h2>
-</div>
+A formação é dividida em módulos, cada um abordando um tema essencial para o desenvolvimento com Node.js:
 
-<div align="center">
-<table>
-  <thead>
-    <tr align="left">
-      <th>#</th>
-      <th>Módulo</th>
-      <th>Materiais</th>
-    </tr>
-  </thead>
-  <tbody align="left">
-    <tr>
-      <td>01</td>
-      <td>📁 Fundamentos NodeJS</td>
-      <td align="center">
-        <a href="">
-           <img 
-              align="center" 
-              alt="Material de Apoio" 
-              src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge"
-            >
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>02</td>
-      <td>📁 Modulo2</td>
-      <td align="center">
-        <a href="">
-           <img 
-            align="center" 
-            alt="Material de Apoio" 
-            src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge"
-            >
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>03</td>
-      <td>📁 Modulo3</td>
-      <td align="center">
-        <a href="">
-           <img 
-            align="center" 
-            alt="Material de Apoio" 
-            src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge"
-            >
-        </a>
-      </td>    
-    </tr>
-    <tr>
-      <td>04</td>
-      <td>📁 Modulo4</td>
-      <td align="center">
-        <a href="">
-           <img 
-            align="center" 
-            alt="Material de Apoio" 
-            src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge"
-            >
-        </a>
-      </td>    
-    </tr>
-  </tbody>
-  <tfoot></tfoot>
-</table>
-</div>
+### 1. Fundamentos do Node.js
+- Introdução ao ambiente Node.js
+- Módulos nativos
+- Manipulação de arquivos
+- Eventos e Streams
 
-<!--START_SECTION:footer-->
-<br/>
-<br/>
-<p align="center">
-  ⌨️ Feito com 💜 by DIO
-</p>
+### 2. API REST com Node.js
+- Criação de servidores HTTP
+- Estruturação de rotas
+- Middlewares
+- Persistência de dados com JSON
 
-<br />
-<br />
+### 3. Node.js com TypeScript
+- Configuração do TypeScript
+- Tipagem estática
+- Refatoração de código para TS
 
-<p align="center">
-  <a href="https://www.dio.me/" target="_blank">
-    <img align="center" src="./.github/assets/footer.png" alt="banner"/>
-  </a>
-</p>
+### 4. Trabalhando com Banco de Dados
+- Integração com PostgreSQL
+- Utilização do Prisma ORM
+- Migrations e Seeders
 
-<!--END_SECTION:footer-->
+### 5. Testes Automatizados
+- Testes unitários com Jest
+- Testes de integração
+- Cobertura de código
+
+## 🛠️ Tecnologias Utilizadas
+
+- [Node.js](https://nodejs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Express](https://expressjs.com/)
+- [Prisma](https://www.prisma.io/)
+- [Jest](https://jestjs.io/)
+- [Insomnia](https://insomnia.rest/) (para testes de API)
+
