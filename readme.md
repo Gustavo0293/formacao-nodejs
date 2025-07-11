@@ -21,7 +21,7 @@ A formação é dividida em módulos, sendo cada um deles voltado a um tema esse
 - Persistência de dados com JSON
 
 ### 3. Node.js com TypeScript
--JavaScript vs TypeScript
+- JavaScript vs TypeScript
 - Configuração do TypeScript
 - Tipagem estática
 - Refatoração de código para TS
