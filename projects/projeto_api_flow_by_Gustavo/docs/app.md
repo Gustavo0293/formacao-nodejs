@@ -4,7 +4,7 @@
 ---
 
 # Description  
-`O projeto objetiva a classificação dos episódios do Flow Podcast através de uma API REST para classificar e ordenar cada episódio com sua respectiva categoria.`  
+`O projeto objetiva a classificação dos episódios do Flow Podcast através de uma API REST para classificar e ordenar cada episódio com sua respectiva categoria. O projeto foi desenvolvido sem nenhum Framework`  
 
 ---
 
@@ -71,7 +71,7 @@ npm run dev
 
 Acesse em:  
 ```
-http://localhost:3000/episodes
+http://localhost:3333/episodes
 ```
 
 ---
