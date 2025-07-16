@@ -1,0 +1,93 @@
+[
+    {
+        "podcastName": "Flow Podcast",
+        "episode": "LUIS MIRANDA - Flow Podcast #700",
+        "videoId": "iXjXw9r3U8E",
+        "slug": "flow-podcast",
+        "categories": ["Política", "Economia", "Brasil"]
+    },
+    {
+        "podcastName": "Flow Podcast",
+        "episode": "NEYMAR JR - Flow Podcast #500",
+        "videoId": "Zr9sTqk8J3o",
+        "slug": "flow-podcast",
+        "categories": ["Esportes", "Carreira", "Futebol"]
+    },
+    {
+        "podcastName": "Flow Podcast",
+        "episode": "LUÍSA SONZA - Flow Podcast #583",
+        "videoId": "kBb3D3qZoVY",
+        "slug": "flow-podcast",
+        "categories": ["Música", "Cultura Pop", "Carreira"]
+    },
+    {
+        "podcastName": "Flow Podcast",
+        "episode": "TARCÍSIO GOMES DE FREITAS - Flow Podcast #799",
+        "videoId": "uZlb_tzA90c",
+        "slug": "flow-podcast",
+        "categories": ["Política", "Infraestrutura", "Brasil"]
+    },
+    {
+        "podcastName": "Flow Podcast",
+        "episode": "CASIMIRO MIGUEL - Flow Podcast #711",
+        "videoId": "3DmyP3f-WOc",
+        "slug": "flow-podcast",
+        "categories": ["Humor", "Futebol", "Entretenimento"]
+    },
+    {
+        "podcastName": "Inteligência Ltda",
+        "episode": "PAOLA CAROSELLA - Inteligência Ltda Podcast #864",
+        "videoId": "Rcs6G2oQd-0",
+        "slug": "inteligencia-ltda",
+        "categories": ["Culinária", "Carreira", "Empreendedorismo"]
+    },
+    {
+        "podcastName": "Inteligência Ltda",
+        "episode": "RATINHO - Inteligência Ltda Podcast #745",
+        "videoId": "SBNGzF0l7E4",
+        "slug": "inteligencia-ltda",
+        "categories": ["Televisão", "Política", "Entretenimento"]
+    },
+    {
+        "podcastName": "Inteligência Ltda",
+        "episode": "LEANDRO KARNAL - Inteligência Ltda Podcast #532",
+        "videoId": "t6nHDZ3Lq8A",
+        "slug": "inteligencia-ltda",
+        "categories": ["Filosofia", "Educação", "Sociedade"]
+    },
+    {
+        "podcastName": "Venus Podcast",
+        "episode": "MARIANA XIMENES - Venus Podcast #400",
+        "videoId": "98r9oFPZZ8c",
+        "slug": "venus-podcast",
+        "categories": ["Cinema", "Televisão", "Carreira"]
+    },
+    {
+        "podcastName": "Venus Podcast",
+        "episode": "GIOVANNA EWBANK - Venus Podcast #352",
+        "videoId": "QtkO-8f5Dpo",
+        "slug": "venus-podcast",
+        "categories": ["Carreira", "Entretenimento", "Influência Digital"]
+    },
+    {
+        "podcastName": "Ciência Sem Fim",
+        "episode": "SÉRGIO SACANI - Ciência Sem Fim #100",
+        "videoId": "Fjj9p1DRwqM",
+        "slug": "ciencia-sem-fim",
+        "categories": ["Astronomia", "Ciência", "Tecnologia"]
+    },
+    {
+        "podcastName": "Ciência Sem Fim",
+        "episode": "AZAGHAL - Ciência Sem Fim #150",
+        "videoId": "uD8U2ZJrZ-A",
+        "slug": "ciencia-sem-fim",
+        "categories": ["Tecnologia", "Podcast", "Inovação"]
+    },
+    {
+        "podcastName": "Ciência Sem Fim",
+        "episode": "MARCOS PONTES - Ciência Sem Fim #90",
+        "videoId": "nPovRC-2c38",
+        "slug": "ciencia-sem-fim",
+        "categories": ["Espaço", "Ciência", "Política"]
+    }
+]
