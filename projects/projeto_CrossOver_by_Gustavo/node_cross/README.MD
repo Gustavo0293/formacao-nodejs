@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./assets/CrossOver.jpeg" alt="Logo" height="200">
+  <img src="https://raw.githubusercontent.com/Gustavo0293/formacao-nodejs/refs/heads/main/projects/projeto_CrossOver_by_Gustavo/node_cross/.github/assets/CrossOver.jpg" alt="Logo" height="200">
   <h1 align="center"><strong>API MÍNIMA TEMATIZADA: REGULAR SHOW & ADVENTURE TIME</strong></h1>
   <p align="center">
     Uma API minimalista feita com Node.js e Fastify, inspirada nos universos de <strong>Regular Show</strong> e <strong>Adventure Time</strong>.
